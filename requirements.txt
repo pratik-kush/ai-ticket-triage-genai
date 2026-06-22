@@ -1,7 +1,6 @@
 fastapi==0.111.0
 uvicorn==0.30.1
 pydantic==2.7.4
-torch==2.12.1
-python-multipart==0.0.9
+torch --index-url https://download.pytorch.org/whl/cpupython-multipart==0.0.9
 pytest==8.2.2
 httpx==0.27.0
